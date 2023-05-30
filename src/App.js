@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Another React Update
+          EB Enviroment Health is Suspended
         </p>
         <a
           className="App-link"
